@@ -10,9 +10,7 @@ Swipe left to edit -
 ![Screenshot_20210517-135449_Todo_11zon](https://user-images.githubusercontent.com/81878722/118475147-7e926e80-b729-11eb-92f5-c2a12ebe1198.jpg)
 Swipe Right to delete - 
 ![Screenshot_20210517-135440_Todo_11zon](https://user-images.githubusercontent.com/81878722/118475158-83572280-b729-11eb-8dd6-401e318bdb20.jpg)
-
-
-
+Click check box if Task is Done.................................................................................................................
 
 
 
